@@ -1,0 +1,9 @@
+Servlet :
+
+http://www.j2eebrain.com/java-J2ee-servlet-interview-questions.html
+
+http://www.developersbook.com/servlets/interview-questions/servlets-interview-questions-faqs.php
+
+JSP :
+
+http://www.j2eebrain.com/java-J2ee-jsp-interview-questions.html
